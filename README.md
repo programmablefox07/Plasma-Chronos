@@ -1,4 +1,5 @@
 # KDE Plasma on ChromeOS
+BROKEN
 
 This project provides an **automated bash script** to build and run the **KDE Plasma desktop** and **X11/XWayland** on a custom ChromeOS installation.  
 It installs KDE into `/usr/local` so the original ChromeOS UI (Ash shell) remains untouched, while still allowing you to launch a full KDE session.
